@@ -5,6 +5,6 @@ jupyter_dash
 gunicorn
 scipy
 seaborn
-sklearn
+scikit-learn
 tensorflow
 matplotlib
